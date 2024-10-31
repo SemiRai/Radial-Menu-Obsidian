@@ -1,4 +1,4 @@
-**Abandoned do to existing Kando app!**
+**Abandoned due to existing Kando app!**
 
 V1.0.0
 
